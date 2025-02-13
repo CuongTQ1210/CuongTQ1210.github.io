@@ -69,7 +69,7 @@ Build an Online Certification Management System with Digital Signature Integrati
 
 ## 📩 Contact Me
 - *Email:* [cuongvt203@gmail.com](mailto:cuongvt203@gmail.com)  
-- *GitHub:* [LenoxVaugh](https://github.com/CuongTQ1210)  
+- *GitHub:* [CuongTQ1210](https://github.com/CuongTQ1210)  
 - *LinkedIn:* []()  
 
 ---
