@@ -1,123 +1,75 @@
 ---
+title: "Trịnh Quốc Cường - Portfolio"
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 👋 Hi, I'm Trịnh Quốc Cường  
+*Intern Backend Developer* passionate about Software Engineering.
 
-[Link to another page](./another-page.html).
+## 📌 About Me
+I am a passionate *Intern Backend Developer* with a strong foundation in *software development and problem-solving*. I thrive in *collaborative environments* and continuously explore emerging technologies to build impactful solutions.
 
-There should be whitespace between paragraphs.
+I am passionate about *Continuously improving my skills* and *Exploring new technologies* in backend development, database management, and system optimization. I thrive in *Collaborative environments* and enjoy tackling complex challenges to deliver efficient and maintainable solutions.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I am eager to *learn from industry experts, participate in backend projects, and continuously challenge myself* to grow as an BackEnd Software Engineer. 🚀
 
-# Header 1
+## 🛠 Technical Skills
+- *Programming:* C#, Java, HTML
+- *Frameworks & Libraries:* ASP.Net Core,  Spring Boot, Winform, Entity Framework Core
+- *Databases:* Microsoft SQL Server, MySQL, PostgreSQL  
+- *Development Tools:* Visual Studio, Visual Studio Code, Android Studio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 💼 Work Experience
+### *Internship – BackEnd Software Engineer*  
+*FPT Software Academy* (01/2024 - 05/2024)  
+- Developed and maintained *RESTful APIs* using *C# .NET*.  
+- Integrated APIs with *third-party services* to enhance application performance.  
+- Optimized relational databases (*MySQL, PostgreSQL, SQL Server*) and implemented *ORM tools* like Migration.  
+- Collaborated with *frontend developers, designers, and product managers*.  
+- Utilized *Jira* and *Trello* for efficient project management.  
 
-## Header 2
+## 🎓 Education
+### *FPT University (2021-2025)*  
+- *Major:* Software Engineering 
+- *GPA:* 3/4  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 📜 Certifications
+- 🏅 **  
+- 📊 **  
+- 💼 **  
 
-### Header 3
+## 🚀 Projects
+### *Jewelry sales management software for jewelry trading companies at 01 store with many stalls*
+(Completed)
+Developed a web platform designed for jewelry trading companies at 01 store with many stalls.  
+- *Technologies Used:* C#, Microsoft SQL Server, PayOS, Mailkit.
+- *Key Contributions:*  Deployment, Send Mail function, CRUD Customer, CRUD Employees, CRUD Counters, CRUD Products
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### *Chatbot Q&A about Socialism*
+(Completed)
+Built an intelligent chatbot capable of answering questions related to socialism.  
+- *Technologies Used:* Python, NLP (Natural Language Processing), Flask  
+- *Key Contributions:* Model training, chatbot logic development  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### *OVoice - Book Rental Web Application*
+(Completed)
+Developed a web platform designed to simplify the process of renting books online.  
+- *Technologies Used:* C#, PostgreSQL ASP.NET Core 8, Entity Framework Core, PayOS 
+- *Key Contributions:* Authentication functions, Online payment
 
-#### Header 4
+### *OCMS - Online Certification Management System*
+(In Progress)
+Build an Online Certification Management System with Digital Signature Integration for an Aviation Academy.
+- *Technologies Used:* C#, PostgreSQL ASP.NET Core 8, Entity Framework Core
+- *Key Contributions:* Database Design, ...
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 🌍 Languages
+- *Vietnamese:* Native  
+- *English:* High Intermediate (IELTS 6.0 - 2019)  
 
-##### Header 5
+## 📩 Contact Me
+- *Email:* [cuongvt203@gmail.com](mailto:cuongvt203@gmail.com)  
+- *GitHub:* [LenoxVaugh](https://github.com/CuongTQ1210)  
+- *LinkedIn:* []()  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
